@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I'm Kenneth 😃
+#### I am a Front-end Developer 💻 and UI/UX Designer 🎨
 
-<!--
-**KennethMurugu/kennethmurugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Vue.js | SASS/SCSS | Bootstrap | Vuetify | UI/UX Design Prototyping
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Flutter 📱 
+- 💬 Ask me about Vue.js and my UI/UX design process 😁 
+- 📫 How to reach me: kennethmurugu@gmail.com  
+- ⚡ Fun fact: I do game development with LibGDX too 😜 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Profile views](https://gpvc.arturio.dev/KennethMurugu)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KennethMurugu&show_icons=true)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KennethMurugu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kendotkim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kenkim.co.ke)  
