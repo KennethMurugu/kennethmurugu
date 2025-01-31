@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Kenneth 😃
-#### I am a Full-stack Developer 💻 and UI/UX Designer 🎨
+#### I'm a Frontend Engineer 💻 and UI/UX Designer 🎨
 
-My stack: Vue.js | Node.js(Next.js, Express) | UI/UX Design (Figma)
+My stack: React.js | Flutter | Node.js | UI/UX Design (Figma)
 
-- 💬 Ask me about Vue.js and my UI/UX design process 😁 
-- 🌱 I’m currently learning React 💻 
+- 💬 Ask me about Next.js/Flutter and my UI/UX design process 😁 
+- 🌱 I’m currently learning C#, Unity and Game development 💻 
 - 📫 How to reach me: kennethmurugu@gmail.com  
-- ⚡ Fun fact: I'm passionate about game development with Godot and LibGDX 😜 
+- ⚡ Fun fact: In my 4th year at university, I built an AI agent that could play cards(and win!) 😜 
 
 
 ![Profile views](https://gpvc.arturio.dev/KennethMurugu)  
